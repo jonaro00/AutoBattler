@@ -1,0 +1,13 @@
+.vscode
+__pycache__
+
+config.txt
+notes.txt
+times.txt
+
+favicon.ico
+
+servoconnecttest.py
+servotaptest.py
+main_old.py
+window_old.py
